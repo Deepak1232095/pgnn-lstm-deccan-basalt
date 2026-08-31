@@ -6,7 +6,7 @@ Ujjain districts, Madhya Pradesh, India).
 
 ## Files
 
-- **01_indore_main_pipeline.py** — Main 48-well Indore analysis: data loading,
+- **01_indore_main_pipeline.py** — Main 36-well Indore analysis: data loading,
   BGL→MSL conversion, hydraulics-based aquifer zone classification,
   geology-informed spatial graph, PGNN-LSTM architecture (M1–M4, M3.5),
   training, ablation, SHAP, MC Dropout, and zone-wise evaluation. This
