@@ -1,6 +1,6 @@
 # PGNN-LSTM: hydrostratigraphy, connectivity and physics constraints in groundwater-level forecasting (Deccan Trap basalt)
 
-Code for the manuscript *"What adds skill to deep-learning groundwater forecasts in hard-rock aquifers? A controlled ablation in Deccan Trap basalt"* (Indore and Ujjain districts, Madhya Pradesh, India).
+Code for the manuscript *"Hydrostratigraphy, connectivity and physics constraints in deep-learning groundwater forecasting: a controlled ablation study in Deccan Trap basalt"* (Indore and Ujjain districts, Madhya Pradesh, India).
 
 The study tests whether hydrostratigraphic information improves groundwater-level forecasts. Seven LSTM variants add rainfall inputs, a hydraulic-conductance well graph, aquifer-zone branches and a physics-guided loss one at a time, together with a capacity-matched control, and are compared with five non-recurrent benchmarks on identical test samples.
 
